@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BusinessApp/static/css/main.d3b11999.css",
+    "main.js": "/BusinessApp/static/js/main.1fc450f7.js",
+    "static/js/787.2cfab07e.chunk.js": "/BusinessApp/static/js/787.2cfab07e.chunk.js",
+    "static/media/contact.jpg": "/BusinessApp/static/media/contact.a66df18e2f821cc6f477.jpg",
+    "static/media/about_img.jpg": "/BusinessApp/static/media/about_img.f1a87c36ce1dc831bfd3.jpg",
+    "static/media/blog.jpg": "/BusinessApp/static/media/blog.38eedf5167ed24acc8fb.jpg",
+    "static/media/banner-img.jpg": "/BusinessApp/static/media/banner-img.d7dfc29a62eeb89d5381.jpg",
+    "static/media/banner.png": "/BusinessApp/static/media/banner.908f1105e63bdffa53c0.png",
+    "static/media/layer.png": "/BusinessApp/static/media/layer.6f099e109a8bd549cd14.png",
+    "index.html": "/BusinessApp/index.html",
+    "main.d3b11999.css.map": "/BusinessApp/static/css/main.d3b11999.css.map",
+    "main.1fc450f7.js.map": "/BusinessApp/static/js/main.1fc450f7.js.map",
+    "787.2cfab07e.chunk.js.map": "/BusinessApp/static/js/787.2cfab07e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3b11999.css",
+    "static/js/main.1fc450f7.js"
+  ]
+}
